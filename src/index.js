@@ -20,16 +20,16 @@ root.render(
     <Router>
         <Routes>
             <Route path="/" element={<Home class="main-div"/>}></Route>
-            <Route path="/projects" element={<div><Navbar></Navbar><Projects class="main-div"/></div>}></Route>
-            <Route path="/classes" element={<div><Navbar></Navbar><Classes class="main-div"/></div>}></Route>
-            <Route path="/experience" element={<div><Navbar></Navbar><Experience class="main-div"/></div>}></Route>
-            <Route path="/contact" element={<div><Navbar></Navbar><Contact class="main-div"/></div>}></Route>
-            <Route path="/dav" element={<div><Navbar></Navbar><DAV class="main-div"/></div>}></Route>
-            <Route path="/swarm" element={<div><Navbar></Navbar><SWARM class="main-div"/></div>}></Route>
-            <Route path="/fit" element={<div><Navbar></Navbar><FIT class="main-div"/></div>}></Route>
-            <Route path="/mate" element={<div><Navbar></Navbar><Mate class="main-div"/></div>}></Route>
-            <Route path="/ghost" element={<div><Navbar></Navbar><Ghost class="main-div"/></div>}></Route>
-            <Route path="/car" element={<div><Navbar></Navbar><Car class="main-div"/></div>}></Route>
+            <Route path="/#/projects" element={<div><Navbar></Navbar><Projects class="main-div"/></div>}></Route>
+            <Route path="/#/classes" element={<div><Navbar></Navbar><Classes class="main-div"/></div>}></Route>
+            <Route path="/#/experience" element={<div><Navbar></Navbar><Experience class="main-div"/></div>}></Route>
+            <Route path="/#/contact" element={<div><Navbar></Navbar><Contact class="main-div"/></div>}></Route>
+            <Route path="/#/dav" element={<div><Navbar></Navbar><DAV class="main-div"/></div>}></Route>
+            <Route path="/#/swarm" element={<div><Navbar></Navbar><SWARM class="main-div"/></div>}></Route>
+            <Route path="/#/fit" element={<div><Navbar></Navbar><FIT class="main-div"/></div>}></Route>
+            <Route path="/#/mate" element={<div><Navbar></Navbar><Mate class="main-div"/></div>}></Route>
+            <Route path="/#/ghost" element={<div><Navbar></Navbar><Ghost class="main-div"/></div>}></Route>
+            <Route path="/#/car" element={<div><Navbar></Navbar><Car class="main-div"/></div>}></Route>
         </Routes>
     </Router>
   </React.StrictMode>
