@@ -1,0 +1,30 @@
+.box-title {
+    font-size: 5vh;
+    height: 5vh;
+    margin: 0 0 0 0;
+}
+
+.projects-grid-div {
+    width: 90vw;
+    margin: 15vh 5vw auto 5vw;
+    height: 85vh;
+}
+
+.dav-image {
+    height: 15vh;
+    margin: 5vh 0 0 0;
+    border-radius: 10%;
+    box-shadow: 0 0 20px black;
+}
+
+.box-div{
+    height: 25vh;
+}
+
+.box-div:hover {
+    color: white
+}
+
+.projects-link {
+    text-decoration: none;
+}

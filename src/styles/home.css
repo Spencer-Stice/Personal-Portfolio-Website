@@ -1,0 +1,59 @@
+.hello-text {
+    color: #f56702;
+    width: 49vw;
+    text-align: center;
+    font-size: 10vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.study-text {
+    /*color: #2774AE;*/
+    color: #f56702;
+    width: 49vw;
+    text-align: center;
+    font-size: 4vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.left-welcome {
+    width: 50vw;
+    text-align: center;
+}
+
+.right-welcome {
+    width: 49vw;
+}
+
+
+  
+  @keyframes wave-animation {
+      0% { transform: rotate( 0.0deg) }
+     10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
+     20% { transform: rotate(-8.0deg) }
+     30% { transform: rotate(14.0deg) }
+     40% { transform: rotate(-4.0deg) }
+     50% { transform: rotate(10.0deg) }
+     60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
+    100% { transform: rotate( 0.0deg) }
+  }
+
+.spencerimage {
+    width: 49vw;
+    border-radius: 50%;
+    box-shadow: 0 0 50px #f56702;
+    float: right;
+}
+
+.welcome-div {
+    display: flex;
+    align-items: center;
+    margin-top: 5vh;
+    margin-right: 2vw;
+}
+  
+  
+  
+  
+  /* For demonstration purposes only: */
+  body { font-size: 3.5em }
+  h1 { font-size: 0.5em }

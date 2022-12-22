@@ -1,0 +1,61 @@
+.exp-box-title {
+    font-size: 4vh;
+    height: 10vh;
+    margin: 0 0 0 0;
+}
+
+.experience-grid-div {
+    width: 95vw;
+    margin: 2vh 2.5vw auto 2.5vw;
+    height: 50vh;
+}
+
+.dav-image {
+    height: 15vh;
+    margin: 5vh 0 0 0;
+    border-radius: 10%;
+    box-shadow: 0 0 20px black;
+}
+
+.exp-box-div{
+    height: 40vh;
+}
+
+.exp-box-div:hover {
+    color: white
+}
+
+.experience-link {
+    text-decoration: none;
+}
+
+.logo-top-div {
+    margin: 12vh 0 0 0;
+    display: flex;
+    align-items: center;
+}
+
+.intel-image {
+    margin: 0 auto 0 auto;
+    width: 20vw;
+    border-radius: 15%;
+}
+
+.exp-text {
+    font-size: 3vh;
+}
+
+.bottom-text {
+    color: white;
+    font-size: 3vh;
+    text-align: center;
+}
+
+.bottom-text-div {
+    width: 90vw;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}

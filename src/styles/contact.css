@@ -1,0 +1,23 @@
+.content-text, .content-text-2 {
+    text-decoration: none;
+    color: white;
+    font-size: 10vh;
+    margin: 0 auto 0 auto
+}
+
+.text-div {
+    width: 90vw;
+    justify-content: center;
+    display: flex;
+    height: 10vh;
+}
+
+.main-div {
+    margin: 30vh auto auto auto;
+    width: 90vw;
+    height: 50vh;
+}
+
+.content-text-2 {
+    color: #f56702;
+}
