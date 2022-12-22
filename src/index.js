@@ -17,7 +17,7 @@ import Car from './pages/car.js';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Router>
+    <Router basename ="/Personal-Portfolio-Website">
         <Routes>
             <Route path="/" element={<Home class="main-div"/>}></Route>
             <Route path="/projects" element={<div><Navbar></Navbar><Projects class="main-div"/></div>}></Route>
