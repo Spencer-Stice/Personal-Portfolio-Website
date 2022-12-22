@@ -6,7 +6,7 @@ import Navbar from './pages/navbar.js';
 import DAV from './pages/dav.js';
 import SWARM from './pages/swarm.js';
 import Classes from './pages/classes.js';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Experience from './pages/experience.js';
 import Contact from './pages/contact.js';
 import FIT from './pages/fit.js';
