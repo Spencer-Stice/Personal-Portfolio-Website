@@ -10,16 +10,16 @@ function Navbar() {
         <a className="navbar-left" href="/">Spencer Stice</a>
       <ul className="navbar-nav">
         <li className="nav-item">
-          <a className="nav-link" href="/#/projects">Projects</a>
+          <a className="nav-link" href="/Personal-Portfolio-Website/#/projects">Projects</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#/classes">Classes</a>
+          <a className="nav-link" href="/Personal-Portfolio-Website/#/classes">Classes</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#/experience">Experience</a>
+          <a className="nav-link" href="/Personal-Portfolio-Website/#/experience">Experience</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#/contact">Contact</a>
+          <a className="nav-link" href="/Personal-Portfolio-Website/#/contact">Contact</a>
         </li>
       </ul>
     </nav>

@@ -42,7 +42,7 @@ class Projects extends Component {
         <div class="projects-grid-div">
             <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
                 <Grid item xs={6}>
-                    <a href="/swarm" class="projects-link">
+                    <a href="/Personal-Portfolio-Website/#/swarm" class="projects-link">
                     <Item>
                         <div class="box-div">
                             <h3 class="box-title">
@@ -54,7 +54,7 @@ class Projects extends Component {
                     </a>
                 </Grid>
                 <Grid item xs={6}>
-                <a href="/dav" class="projects-link">
+                <a href="/Personal-Portfolio-Website/#/dav" class="projects-link">
                     <Item>
                         <div class="box-div">
                             <h3 class="box-title">
@@ -66,7 +66,7 @@ class Projects extends Component {
                     </a>
                 </Grid>
                 <Grid item xs={6}>
-                <a href="/fit" class="projects-link">
+                <a href="/Personal-Portfolio-Website/#/fit" class="projects-link">
                     <Item>
                         <div class="box-div">
                             <h3 class="box-title">
@@ -78,7 +78,7 @@ class Projects extends Component {
                     </a>
                 </Grid>
                 <Grid item xs={6}>
-                    <a href="/mate" class="projects-link">
+                    <a href="/Personal-Portfolio-Website/#/mate" class="projects-link">
                     <Item>
                         <div class="box-div">
                             <h3 class="box-title">
@@ -90,7 +90,7 @@ class Projects extends Component {
                     </a>
                 </Grid>
                 <Grid item xs={6}>
-                <a href="/ghost" class="projects-link">
+                <a href="/Personal-Portfolio-Website/#/ghost" class="projects-link">
                     <Item>
                         <div class="box-div">
                             <h3 class="box-title">
@@ -102,7 +102,7 @@ class Projects extends Component {
                     </a>
                 </Grid>
                 <Grid item xs={6}>
-                <a href="/car" class="projects-link">
+                <a href="/Personal-Portfolio-Website/#/car" class="projects-link">
                     <Item>
                         <div class="box-div">
                             <h3 class="box-title">

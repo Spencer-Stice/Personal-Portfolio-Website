@@ -33,10 +33,10 @@ class Home extends Component {
                 <p class="hello-text">Hi, I'm Spencer Stice</p>
                 <p class="study-text">I study computer engineering and math at UCLA</p>
                 <ButtonGroup variant="contained" aria-label="outlined primary button group" size="large" fullWidth="true">
-                    <Button href="/#/projects">Projects</Button>
-                    <Button href="/#/experience">Work Experience</Button>
-                    <Button href="/#/classes">Classes</Button>
-                    <Button href="/#/contact">Contact</Button>
+                    <Button href="/Personal-Portfolio-Website/#/projects">Projects</Button>
+                    <Button href="/Personal-Portfolio-Website/#/experience">Work Experience</Button>
+                    <Button href="/Personal-Portfolio-Website/#/classes">Classes</Button>
+                    <Button href="/Personal-Portfolio-Website/#/contact">Contact</Button>
                 </ButtonGroup>
             </div>
             <div class="right-welcome">
