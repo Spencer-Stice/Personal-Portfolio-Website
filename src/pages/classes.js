@@ -65,6 +65,7 @@ const physicsClasses = [
 ];
 
 const miscClasses = [
+  'Search for Extraterrestrial Intelligence (SETI)',
   'Astrobiology',
   'History of Rock and Roll',
 ];
